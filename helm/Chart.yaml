@@ -1,0 +1,10 @@
+apiVersion: v1
+name: python-flask 
+description: Install a Python Flask deployment
+keywords:
+- python
+- flask 
+version: 1.0.0
+maintainers:
+- name: menna
+  email: menna.elgedawy9761@gmail.com

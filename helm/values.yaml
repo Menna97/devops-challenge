@@ -1,0 +1,12 @@
+namespace:
+  name: test
+
+service:
+  port: 5000
+  type: ClusterIP
+
+image:
+  repository: menna97/python-flask
+  tag: v1.0.0
+
+replicaCount: 3
